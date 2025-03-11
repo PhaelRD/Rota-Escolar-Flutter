@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "250433057760",
+    "firebase_url": "https://rota-escolar-7c046-default-rtdb.firebaseio.com",
+    "project_id": "rota-escolar-7c046",
+    "storage_bucket": "rota-escolar-7c046.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250433057760:android:7b04c1385db9a2fcc2f185",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKVR-WRuZ0yPF-slXKGO67jPwRrSnyQFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

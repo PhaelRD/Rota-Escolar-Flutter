@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "rota-escolar-7c046",
+  "private_key_id": "a8e29527c4baee4d2dd68213513ecd64927c84a2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC5H3RCUrSW4Eiz\n96TcZF7LNsKPc+ddUtOvtB9wuY1llbcY6RtGq+mf/3Yro2SFY5cSU/DlUbOxiich\nGFe0wV9QFX7sIepz1F5BXLa3aiJ+TrzDoljT8TiMkb40Ckgmh2+c53KhiVkuaDxu\naW8TPWj6AAHuyV1CMRWtzAieVtdcZrkdHKDEBpy3SuJrr4xXW7DEM7lAt6/8/aWc\nDgEHYqTtbmiTrcW9RZ5apz2+snnLLCrm+Wb61hLc+AFs/mMBkD0xkapx8r0b+jD8\nJX3G4D412c1mQJ1GzRuIxU1VWc7+0i49ICEQ3P7aDtu7dg1hDo5rUvERJF6qRdHv\nOkh4BJ2xAgMBAAECggEAA2ksc7JhaGw+eq5j57mjs3vRTuJUT3hgtRqM/78zdz0w\nb/GPkphFSDDlRP2QMxL4LBrG0/rS5EEG4om3x/lOH8QdoA0p7DNr/ylNpoh6lTgv\nKy2ZFGKb558h0YSk+qzBJjNvfcFxlrTN9DzWEpUtk3mfj34/TSJpY1fgisZP1oB3\n7YYPSosPUmxxUVdeMb3Ct7O2pMuO6TbhCVHNV7N1Y6cV3hTUgjjRVEN25c4kNvxS\n6URx4325oHvIhMfWwRQ7I5ALRFk5lV/1J1IpOX3Aa5idPeF1z7lnPGbpXRNFQZlM\nnjjH+5g4Y1A4ESdKF8GFMwMkt8vLalf7HSr6X1ArpwKBgQD48Pvuk2mzMLgwrqh5\nPhB0L97ZDAyfS5gEI7Iuo3wd7Qy/5H80jJATEQhAf1VWtYtOiSyP/udPS9NO5O2P\nM3bKVNqa+WoY0KJwUJmpvytraB6ni1bo5G5r7PeQYWCJ4yUyKBjiWvx0yfnFj9i0\nR2a02ui1ZXuUOu7RfKQVifPwIwKBgQC+XzlvLGeDw+SwuWJWLSBQTdp5Rh23zb6e\n/W2Ynght9f+ZzvD1q9EYJl2M7pSSrg3a3O38asn0mkdcOwfqZr+d8Y8iC1noijHM\nDzq5tXPBc4Oi1cgqpVGn6V4PNwvAGcGA5p6udxRhCDcjqPElJgi/RKfFzogz4TXU\n2S3h4YwuGwKBgDcQFqmOsbKQ9CzQdTNcJweMDx6zK5eQgO9pdeAbCTkVVdycDgbx\nkGynN8wMXjPvtACLFvBC0acYfoTU3jbuizf1zOS6hl02yLdPHK4POutm/GDS0UZy\nQHpez+N/pnrZY0DU3awzs+OhST4Js0UtBeq7AP4elFcVMf3kM+cPvIVBAoGBAIom\nQmC6IZiOZPwWXBVbhBKinMPbLR/Ab++iy5CwRj++ADHW6ift+rwCw2rNjAXxx14n\na5D80ffuqZB1yiXBUJbGwG8dO66z8rU57Azub8VYFZPqferss5gdk0OJV76dMj5f\nnZHQGnrb4l+/btfdhQWARhwW5+J2MYF35YMBEaA3AoGBANi/tLHgsra0pLI873U7\nJ3OZ4VprTfxfN5TOHoCRk9F5iGgIO5P94ezfFfzIhHFLJi1voQGC0QJrJVvOOT1t\nJab0UD32zZue7Vr25Qy+jL+NA0W0QBbAJjdtTk0Az1GLG6CDjiF99+D7Lcvc73pp\nh8rUiW0Vha0zyh2IODyvj0zB\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@rota-escolar-7c046.iam.gserviceaccount.com",
+  "client_id": "112139970167526526544",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40rota-escolar-7c046.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
